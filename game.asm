@@ -3,7 +3,7 @@
 # CSCB58 Winter 2023 Assembly Final Project
 # University of Toronto, Scarborough
 #
-# Student Name: Emma Gong, 
+# Student Name: Emma Gong
 # Student Number:1007819951
 # UtorID: gongemma
 # Email: emma.gong@mail.utoronto.ca
